@@ -1,0 +1,7 @@
+tqdm==4.62.3
+pandas==1.2.4
+scikit-learn==0.24.1
+scipy==1.6.2
+simplejson==3.16.0
+torch==1.10.0
+numpy==1.17.4
